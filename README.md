@@ -30,6 +30,14 @@ Your support will be of great help in maintaining the project.
 
 Hugo version 0.65.0 or higher is required.
 
+## Development
+
+```shell
+git clone git@github.com:go-ut/hugo-theme-zdoc.git zdoc
+cd zdoc/exampleSite
+hugo server --themesDir ../..
+```
+
 ## Screenshot
 
 ![Hugo Theme Zdoc Screenshot](images/screenshot.png)
